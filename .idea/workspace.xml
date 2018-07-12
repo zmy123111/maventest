@@ -87,6 +87,11 @@
               <item name="maventest" type="b2602c69:ProjectViewProjectNode" />
               <item name="maventest" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="maventest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maventest" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -212,12 +217,20 @@
       <updated>1531024564888</updated>
       <workItem from="1531024567126" duration="1292000" />
       <workItem from="1531407894977" duration="1104000" />
-      <workItem from="1531412751974" duration="233000" />
+      <workItem from="1531412751974" duration="317000" />
     </task>
+    <task id="LOCAL-00001" summary="啊啊啊啊">
+      <created>1531413008977</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1531413008977</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2629000" />
+    <option name="totallyTimeSpent" value="2713000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="39" y="23" width="1241" height="714" extended-state="0" />
@@ -258,6 +271,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="啊啊啊啊" />
+    <option name="LAST_COMMIT_MESSAGE" value="啊啊啊啊" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
